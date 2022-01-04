@@ -1,0 +1,23 @@
+p{
+    text-align: justify;
+    
+}
+.divclass{
+    background-color: skyblue;
+}
+.divclass2{
+    background-color: slateblue;
+}
+.blog{
+    border: 5px;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 20px;
+}
+#background{
+    background-color: yellow;
+}
+#div1class{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
